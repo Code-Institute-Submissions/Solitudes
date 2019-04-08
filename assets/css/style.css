@@ -78,6 +78,9 @@ audio {
     color: #373b42eb;
 }
 
+.gif-container2 {
+}
+
 /*-----------------------Media items*/
 
 .gif-container {
@@ -94,7 +97,6 @@ audio {
     position: relative;
     z-index: 1;
 }
-
 
 
 /*-----------------------Header*/
@@ -116,6 +118,25 @@ hr {
 
 
 /*-----------------------Special paddings/margins/text*/
+
+.cubes-box {
+  background: transparent;
+   background: url("../images/lake.gif") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: block;
+    align-items: center !important;
+    justify-content: center; /*to center text-content in e.g. jumbotron*/
+    position: relative;
+    z-index: 1;
+}
+
+.row-opacity {
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 15px;
+}
 
 .fira-font {
     font-family: "Fira Sans", sans-serif;
@@ -156,6 +177,10 @@ hr {
     width: 135px;
 }
 
+.add-padding {
+    padding: 1rem!important;
+}
+
 .pad-pls {
     padding-top: 9px;
 }
@@ -166,6 +191,26 @@ hr {
 
 .padpadbot {
     padding-bottom: 20px;
+}
+
+.movie-drop {
+    padding-top: 7px;
+}
+
+.btn-padding {
+    padding-bottom: 10px;
+}
+
+.pad-text {
+    padding-top: 10px;
+}
+
+.marg-top {
+    margin-top: 10px;
+}
+
+.p-3 {
+    padding: 10px 5px 5px 5px;
 }
 
 /*-----------------------Footer*/
@@ -180,9 +225,7 @@ hr {
     text-align: center;
     color: #ffbd17;
     background-color: #8e8888;
-    margin-top: 25px;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin: 25px 15px 0 15px;
     transition: all .35s ease-in-out;
     -moz-transition: all .35s ease-in-out;
     -o-transition: all .35s ease-in-out;
