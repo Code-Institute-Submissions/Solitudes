@@ -170,6 +170,12 @@ hr {
     margin: 5px;
 }
 
+.col-move {
+    float: right;
+    /* padding-left: 15px; */
+    display: block;
+}
+
 .mr-3, .mx-3 {
     margin-right: 10px!important;
     margin-bottom: 15px;
@@ -194,7 +200,8 @@ hr {
 }
 
 .movie-drop {
-    padding-top: 7px;
+    padding-top: 20px;
+    padding-bottom: 10px;
 }
 
 .btn-padding {
