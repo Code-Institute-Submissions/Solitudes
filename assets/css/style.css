@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:100i,200i,300i,400i,500i,600i,700i,800i|Raleway:100,200,300,400,500,600,700,800');
+/*Font-specify:
+font-family: "Fira Sans", sans-serif;
+font-family: "Raleway", sans-serif;
+*/
+
+
+/*-----------------------Colors/Shanding*/
+.bg-dark {
+    background-color: #ad8b9b8c!important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #3a3f44;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+    color: #fafafb;
+}
+
+.jumbotron {
+    background-color: #d2bfc8;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: goldenrod;
+    border-color: goldenrod;
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: darkgoldenrod;
+    border-color: darkgoldenrod;
+}
+
+.nav-color-text {
+    font-weight: 500;
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: goldenrod;
+    border-color: goldenrod;
+}
+
+.btn-secondary:hover {
+    color: #fff;
+    background-color: darkgoldenrod;
+    border-color: darkgoldenrod;
+}
+
+.footer-bg {
+    background-color: #ad8b9b8c!important;
+}
+
+audio {
+    filter: invert(10%);
+}
+
+.rgba-bg {
+    background: rgba(230, 232, 234, 0.4);
+}
+
+.rgba-bg2 {
+    background: rgba(242, 246, 255, 0.6);
+}
+
+.raleway-font {
+    color: #666b71;
+}
+
+.fira-font {
+    color: #4c4e3d;
+}
+
+.raleway-font-dark {
+    color: #373b42eb;
+}
+
+/*-----------------------Media items*/
+
+.gif-container {
+    min-height: 100vh;
+    min-width: 100vw;
+    background: url("../images/lake.gif") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: block;
+    align-items: center !important;
+    justify-content: center; /*to center text-content in e.g. jumbotron*/
+    position: relative;
+    z-index: 1;
+}
+
+
+
+/*-----------------------Header*/
+
+.h1, h1 {
+    font-size: 500%;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 3px solid rgba(76, 63, 101, 0.1);
+    margin-left: 200px;
+    margin: 0 100px 50px 100px;
+}
+
+
+
+
+/*-----------------------Special paddings/margins/text*/
+
+.fira-font {
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 400;
+}
+
+.raleway-font {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+}
+
+.pull-padding {
+    padding-top: 15%;
+}
+
+.h5, h5 {
+    font-size: 1.75rem;
+}
+
+.audio-drop {
+    margin-top: 125px;
+}
+
+.jumbotron {
+    padding: 0;
+    margin-bottom: 0;
+}
+
+.float-right {
+    float: right!important;
+    margin: 5px;
+}
+
+.mr-3, .mx-3 {
+    margin-right: 10px!important;
+    margin-bottom: 15px;
+    height: 105px;
+    width: 135px;
+}
+
+.pad-pls {
+    padding-top: 9px;
+}
+
+.padpadtop {
+    padding-top: 20px;
+}
+
+.padpadbot {
+    padding-bottom: 20px;
+}
+
+/*-----------------------Footer*/
+
+.social-links li a i {
+    width: 50px;
+    height: 50px;
+    padding: 12px 0;
+    border-radius: 50%; /*for a round circle*/
+    font-size: 25px;
+    line-height: 25px;
+    text-align: center;
+    color: #ffbd17;
+    background-color: #8e8888;
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-right: 30px;
+    transition: all .35s ease-in-out;
+    -moz-transition: all .35s ease-in-out;
+    -o-transition: all .35s ease-in-out;
+    -webkit-transition: all .35s ease-in-out;
+}
+
+.social-links li a i:hover {
+   background-color: darkgoldenrod; 
+}
+
+#footer-details {
+    padding: 20px;
+}
