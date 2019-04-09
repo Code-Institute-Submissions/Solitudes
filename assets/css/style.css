@@ -82,7 +82,8 @@ audio {
     color: #373b42eb;
 }
 
-.gif-container2 {
+audio:focus {
+    outline-color: transparent;
 }
 
 /*-----------------------Media items*/
