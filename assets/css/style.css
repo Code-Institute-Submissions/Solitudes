@@ -18,6 +18,10 @@ font-family: "Raleway", sans-serif;
     color: #fafafb;
 }
 
+.navbar-toggler .collapsed .navbar-toggler {
+    border-color: transparent;
+}
+
 .jumbotron {
     background-color: #d2bfc8;
 }
@@ -34,8 +38,8 @@ font-family: "Raleway", sans-serif;
     border-color: darkgoldenrod;
 }
 
-.nav-color-text {
-    font-weight: 500;
+button:focus {
+    outline: transparent;
 }
 
 .btn-secondary {
@@ -98,6 +102,12 @@ audio {
     z-index: 1;
 }
 
+/*@media (min-width: 769px) and (max-width: 1024px) {
+    .navbar-expand-sm .navbar-collapse {
+        display: flex!important;
+        flex-basis: auto;
+    }
+}*/
 
 /*-----------------------Header*/
 
@@ -152,6 +162,10 @@ hr {
     padding-top: 15%;
 }
 
+.nav-color-text {
+    font-weight: 500;
+}
+
 .h5, h5 {
     font-size: 1.75rem;
 }
@@ -163,6 +177,9 @@ hr {
 .jumbotron {
     padding: 0;
     margin-bottom: 0;
+    margin-right: 0px;
+    margin-left: 0px;
+    overflow: hidden;
 }
 
 .float-right {
