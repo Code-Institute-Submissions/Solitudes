@@ -7,8 +7,8 @@ audio are added for further enjoyment. You will also find a timeline of importan
 animals and areas can also be found. At the bottom of the page, you will find option for users to get subscribed to the newsletter and check out social links to Solitudes social networks.
 
 ## Example
-An example of the website can be found [here](https://eucaa.github.io/Solitudes/)
-Please do not hesitate to contact (info@eucaa.com) for questions, information or bugs you would like to report.
+An example of the website can be found [here](https://eucaa.github.io/Solitudes/)._
+Please do not hesitate to contact website creator [eucaa](info@eucaa.com) for questions, information or bugs you would like to report.
 
 ## UX
 My aim for this website is to breath some new life into this brand and it's music. Since Solitudes' music started in flourishment in the '80's and '90's, I wanted to give it a feel of from these era's but also but it a more modern edge to
@@ -18,7 +18,7 @@ A gentle moving nature-gif was added to the main background to give it a more al
 The video- screen border as been adjusted so it feels as if "you are looking through a window, to the outside world".
 
 A [link](https://solitudes-eucaa.c9users.io/solitudes-disco-list.pdf) is added to the complete discography of Solitudes, which will open in a new tab. 
-To update this file, an email can be send (info@eucaa.com)
+To update this file, an email can be send to [eucaa](info@eucaa.com)
 
 Wireframes, and all used music- and video content, images and additional files can be found in the assets-folder.
 
@@ -26,7 +26,7 @@ Wireframes, and all used music- and video content, images and additional files c
 I thankfully made use of the following programming tools
 1. HTML5
 2. CSS3
-3. Bootstrap (4.0)
+3. Bootstrap (4.0)_
 And a dash of JavaScript.
 
 ## Features
@@ -56,19 +56,19 @@ The webiste has been tested by multiple people of different ages (25-70 years) o
 - User reactions.
 
 ### Following feedback was given:
-- Accessibility:
+- Accessibility:_
 All individuals found the website easy to access, from the home page to entering other tabs and external files.
 
-- User friendliness:
+- User friendliness:_
 All individuals where content with finding additional link en viewing available media content.
 
-- Appearance:
-The website was seen as "friendly to the eyes", "clear" and "interactive, not but overdone".
+- Appearance:_
+The website was seen as "friendly to the eyes", "clear" and "interactive, but not overdone".
 
-- Appeal:
+- Appeal:_
 Best graded appeals where the media content (video and audio) and "staring at reed on the home page screen while listening to audio samples".
 
-- User reactions:
+- User reactions:_
 User reactions where mostly positive and approving.
 
 ### Improvements:
@@ -85,18 +85,20 @@ Solitudes is hosted by using GitHub and is being deployed directly from the mast
 The deployed website will be automatically updated upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must either be named "index.html"
 and includes adjustments on all other additional html- pages, when required. 
 
-There a minimum to no differences between the developped and deployed version. All requests and approved changes may only be made with apporval by creator.
+There's a minimum to no differences between the developped and deployed version. All requests and approved changes may only be made with apporval by creator.
 
 ## Credits
 
 ### Content
-The text for section "About", "Nature" and "Discography" where sourced Wikipedia article "Solitudes". Text- adjustments to fit to size where made by website creator.
+The text for section "About", "Nature" and "Discography" where sourced Wikipedia article "Solitudes"._ 
+Text- adjustments to fit to size where made by website creator.
 ### Media
-All media was used from Solitudes related websites or content. All rights reserved for publishers. Media shall be removed immediately if requested by original content creators.
+All media was used from Solitudes related websites or content. All rights reserved for publishers._ 
+Media shall be removed immediately if requested by original content creators.
 ### Acknowledgements
-##### Many thanks to
-Baklap4- for viewing example of video and audio placement.
-Christine Urban on JSFiddle for her section- tranparency [instructions](https://jsfiddle.net/christineurban/svgbb7u5/).
-All friends who where willing to become my test subject.
-My cats, who kept me warm and fluffy all the way to the end.
+#### Many thanks to:
+Baklap4- for viewing example of video and audio placement._
+Christine Urban on JSFiddle for her section- tranparency [instructions](https://jsfiddle.net/christineurban/svgbb7u5/)._
+All friends who where willing to become my test subject._
+My cats, who kept me warm and fluffy all the way to the end._
 Dan Gibson and Solitudes, for keeping me sane and relaxed when needed for so many years.
