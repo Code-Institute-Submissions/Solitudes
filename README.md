@@ -8,7 +8,7 @@ animals and areas can also be found. At the bottom of the page, you will find op
 
 ## Example
 An example of the website can be found [here](https://eucaa.github.io/Solitudes/).<br/>
-Please do not hesitate to contact website creator [eucaa](info@eucaa.com) for questions, information or bugs you would like to report.
+Please do not hesitate to contact website creator eucaa (info@eucaa.com) for questions, information or bugs you would like to report.
 
 ## UX
 My aim for this website is to breath some new life into this brand and it's music. Since Solitudes' music started in flourishment in the '80's and '90's, I wanted to give it a feel of from these era's but also but it a more modern edge to
@@ -18,7 +18,7 @@ A gentle moving nature-gif was added to the main background to give it a more al
 The video- screen border as been adjusted so it feels as if "you are looking through a window, to the outside world".
 
 A [link](https://solitudes-eucaa.c9users.io/solitudes-disco-list.pdf) is added to the complete discography of Solitudes, which will open in a new tab. 
-To update this file, an email can be send to [eucaa](info@eucaa.com)
+To update this file, an email can be send to eucaa (info@eucaa.com)
 
 Wireframes, and all used music- and video content, images and additional files can be found in the assets-folder.
 
