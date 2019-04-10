@@ -100,7 +100,7 @@ audio, controls {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    display: block;
+    
     align-items: center !important;
     justify-content: center; /*to center text-content in e.g. jumbotron*/
     position: relative;
