@@ -7,7 +7,7 @@ audio are added for further enjoyment. You will also find a timeline of importan
 animals and areas can also be found. At the bottom of the page, you will find option for users to get subscribed to the newsletter and check out social links to Solitudes social networks.
 
 ## Example
-An example of the website can be found [here](https://eucaa.github.io/Solitudes/).__
+An example of the website can be found [here](https://eucaa.github.io/Solitudes/).<br/>
 Please do not hesitate to contact website creator [eucaa](info@eucaa.com) for questions, information or bugs you would like to report.
 
 ## UX
