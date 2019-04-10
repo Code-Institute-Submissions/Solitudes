@@ -1,65 +1,102 @@
-Your Project's Name
-One or two paragraphs providing an overview of your project.
+# Ode To Solitudes 
+I have made this project to give my gratitute to a specific music brand (New Age) who has helped me a lot focusing on my study- and relaxtion times for over a decade.
 
-Essentially, this part is your sales pitch.
+This website has been created to present the Solitudes brand back the world, as it seems it does not possess an own website (anymore). In this era of high pressure, stress and everything in high speed it's important to take time for yourself
+and relax! Music is still one of the best remedies to get yourself back on a better paced track. On this website, you will find some background stories about Solitudes and it's creator. To enhance the exprience of Solitudes, a movie and some
+audio are added for further enjoyment. You will also find a timeline of important achievements and a link to a complete list of the discography (new data can always be added!). More information about commonly used sounds of Solitudes' favourite 
+animals and areas can also be found. At the bottom of the page, you will find option for users to get subscribed to the newsletter and check out social links to Solitudes social networks.
 
-UX
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+## Example
+An example of the website can be found [here](https://eucaa.github.io/Solitudes/)
+Please do not hesitate to contact (info@eucaa.com) for questions, information or bugs you would like to report.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+## UX
+My aim for this website is to breath some new life into this brand and it's music. Since Solitudes' music started in flourishment in the '80's and '90's, I wanted to give it a feel of from these era's but also but it a more modern edge to
+make more interesting for younger generations. I've kept the website in natural color shades to give it a friendly welcoming and calm apperance. The original brand logo is used to stay close to it's origin.
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+A gentle moving nature-gif was added to the main background to give it a more alive and interactive feeling. Aside for this, some music fragments are added to enjoy and promote Solitudes' music.
+The video- screen border as been adjusted so it feels as if "you are looking through a window, to the outside world".
 
-Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+A [link](https://solitudes-eucaa.c9users.io/solitudes-disco-list.pdf) is added to the complete discography of Solitudes, which will open in a new tab. 
+To update this file, an email can be send (info@eucaa.com)
 
-Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+Wireframes, and all used music- and video content, images and additional files can be found in the assets-folder.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+## Technologies
+I thankfully made use of the following programming tools
+1. HTML5
+2. CSS3
+3. Bootstrap (4.0)
+And a dash of JavaScript.
 
-Features Left to Implement
-Another feature idea
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+## Features
+There are many features added to this website to make it as responcive as possible, so it's also easier to access for the elderly. The main features are:
+- Removed standard border to widen the range between text areas and for better alignment.
+- Added multiple layers of tranparency for a more gentle and interactive feel.
+- Took out the video for better responciveness and faster page loading on devices whom are smaller that a width of 769.
+- Added collapsed navbar for iPad size to prevent it from cluttering.
+- Removed the auto-"download" option from all audio-tags to prevent illegal download and spreading.
+- Adjusted frame sizes and frame border to give it viewing box feeling.
+- A complete discography provided by visiting an external [link](https://solitudes-eucaa.c9users.io/solitudes-disco-list.pdf).
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
-Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+## Features for the future
+- Updating discography list
+- Adding a section for new music publications (On the webpage as in the newsletter)
+- Changing logo color of the brand image on the home page depending on the season 
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+## JQuery
+The website uses some JQuery for extra flow.
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+## Testing
+The webiste has been tested by multiple people of different ages (25-70 years) on the following point:
+- Accessibility;
+- User friendliness;
+- Appearance;
+- Appeal;
+- User reactions.
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+### Following feedback was given:
+- Accessibility:
+All individuals found the website easy to access, from the home page to entering other tabs and external files.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+- User friendliness:
+All individuals where content with finding additional link en viewing available media content.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+- Appearance:
+The website was seen as "friendly to the eyes", "clear" and "interactive, not but overdone".
 
-Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+- Appeal:
+Best graded appeals where the media content (video and audio) and "staring at reed on the home page screen while listening to audio samples".
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+- User reactions:
+User reactions where mostly positive and approving.
 
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
+### Improvements:
+Over time, improvements where made in: 
+- Text structure;
+- Navbar positioning on several device sizes;
+- Colors;
+- Social links placement.
 
-Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
+More adjustments will most likely be made in the near and further future.
+
+## Deployment
+Solitudes is hosted by using GitHub and is being deployed directly from the master branch. 
+The deployed website will be automatically updated upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must either be named "index.html"
+and includes adjustments on all other additional html- pages, when required. 
+
+There a minimum to no differences between the developped and deployed version. All requests and approved changes may only be made with apporval by creator.
+
+## Credits
+
+### Content
+The text for section "About", "Nature" and "Discography" where sourced Wikipedia article "Solitudes". Text- adjustments to fit to size where made by website creator.
+### Media
+All media was used from Solitudes related websites or content. All rights reserved for publishers. Media shall be removed immediately if requested by original content creators.
+### Acknowledgements
+##### Many thanks to
+Baklap4- for viewing example of video and audio placement.
+Christine Urban on JSFiddle for her section- tranparency [instructions](https://jsfiddle.net/christineurban/svgbb7u5/).
+All friends who where willing to become my test subject.
+My cats, who kept me warm and fluffy all the way to the end.
+Dan Gibson and Solitudes, for keeping me sane and relaxed when needed for so many years.
