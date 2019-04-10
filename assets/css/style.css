@@ -86,6 +86,10 @@ audio:focus {
     outline-color: transparent;
 }
 
+audio, controls {
+    color: transparent;
+}
+
 /*-----------------------Media items*/
 
 .gif-container {
@@ -126,9 +130,7 @@ hr {
 }
 
 
-
-
-/*-----------------------Special paddings/margins/text*/
+/*-----------------------Special paddings/margins/text/shading*/
 
 .cubes-box {
   background: transparent;
@@ -269,3 +271,5 @@ hr {
 #footer-details {
     padding: 20px;
 }
+
+
