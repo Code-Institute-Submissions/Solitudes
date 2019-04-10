@@ -26,7 +26,7 @@ Wireframes, and all used music- and video content, images and additional files c
 I thankfully made use of the following programming tools
 1. HTML5
 2. CSS3
-3. Bootstrap (4.0)_
+3. Bootstrap (4.0)<br/>
 And a dash of JavaScript.
 
 ## Features
@@ -56,19 +56,19 @@ The webiste has been tested by multiple people of different ages (25-70 years) o
 - User reactions.
 
 ### Following feedback was given:
-- Accessibility:_
+- Accessibility:<br/>
 All individuals found the website easy to access, from the home page to entering other tabs and external files.
 
-- User friendliness:_
+- User friendliness:<br/>
 All individuals where content with finding additional link en viewing available media content.
 
-- Appearance:_
+- Appearance:<br/>
 The website was seen as "friendly to the eyes", "clear" and "interactive, but not overdone".
 
-- Appeal:_
+- Appeal:<br/>
 Best graded appeals where the media content (video and audio) and "staring at reed on the home page screen while listening to audio samples".
 
-- User reactions:_
+- User reactions:<br/>
 User reactions where mostly positive and approving.
 
 ### Improvements:
@@ -90,15 +90,15 @@ There's a minimum to no differences between the developped and deployed version.
 ## Credits
 
 ### Content
-The text for section "About", "Nature" and "Discography" where sourced Wikipedia article "Solitudes"._ 
+The text for section "About", "Nature" and "Discography" where sourced Wikipedia article "Solitudes".<br/> 
 Text- adjustments to fit to size where made by website creator.
 ### Media
-All media was used from Solitudes related websites or content. All rights reserved for publishers._ 
+All media was used from Solitudes related websites or content. All rights reserved for publishers.<br/> 
 Media shall be removed immediately if requested by original content creators.
 ### Acknowledgements
 #### Many thanks to:
-Baklap4- for viewing example of video and audio placement._
-Christine Urban on JSFiddle for her section- tranparency [instructions](https://jsfiddle.net/christineurban/svgbb7u5/)._
-All friends who where willing to become my test subject._
-My cats, who kept me warm and fluffy all the way to the end._
+Baklap4, for viewing example of video and audio placement.<br/>
+Christine Urban on JSFiddle, for her section- tranparency [instructions](https://jsfiddle.net/christineurban/svgbb7u5/).<br/>
+My partner and friends, who where willing to become my test subject.<br/>
+My cats, who kept me warm and fluffy all the way to the end.<br/>
 Dan Gibson and Solitudes, for keeping me sane and relaxed when needed for so many years.
