@@ -33,6 +33,7 @@ And a dash of JavaScript.
 There are many features added to this website to make it as responcive as possible, so it's also easier to access for the elderly. The main features are:
 - Removed standard border to widen the range between text areas and for better alignment.
 - Added multiple layers of tranparency for a more gentle and interactive feel.
+- Added a navbar that holds a fixed top position on the webpage on smaller sized devices, such as mobile phones and iPads (smaller than width 768px). !The navbar will scoll with page-flow on devices with a width of 769px and more!
 - A clip (gif) was added to the background of the home page screen for some extra flow.
 - All surplus white spaces have been removed.
 - Appearance of audio tags have been personally styled.

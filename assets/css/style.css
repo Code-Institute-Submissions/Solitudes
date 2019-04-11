@@ -263,9 +263,17 @@ hr {
 .col-md-6 {
     max-width: 100%;
 }
-
 }
 
+@media not screen and (max-width: 768px) {
+.fixed-top {
+    position: relative;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}    
+}
 
 /*-----------------------Footer*/
 
