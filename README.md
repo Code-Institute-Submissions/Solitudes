@@ -24,7 +24,7 @@ Wireframes, and all used music- and video content, images and additional files c
 
 ### User Story
 As a (first time) user and possible costumer of this website I would like to expierence what this brand can offer me. It will need to give me a welcoming feeling and provide me with some basic- and interesting information about the brand,
-and not feel aggressive or loud. It would need to make me more interested in the brand and what it can provide me, so I will share my experiences of it with others and buy their products.
+and not feel aggressive or loud. It would need to make me more interested in the brand and what it can provide me, so I will share my experiences of it with others, visit the website again and buy their products.
 
 ## Technologies
 I thankfully made use of the following programming tools
@@ -50,9 +50,10 @@ There are many features added to this website to make it as responcive as possib
 - A link to [Amazon.com](https://www.amazon.com/s?k=Dan+Gibson%27s+Solitudes&i=music-intl-ship&ref=nb_sb_noss) was added, for user to buy Solitudes' music. 
 
 ## Features for the future
-- Updating discography list
-- Adding a section for new music publications (On the webpage as in the newsletter)
-- Changing logo color of the brand image on the home page depending on the season 
+- Updating discography list.
+- Adding a section for new music publications (On the webpage as in the newsletter).
+- Changing audio files with new music every 6 months.
+- Changing logo color of the brand image on the home page depending on the season. 
 
 ## JQuery
 The website uses some JQuery for extra flow.
