@@ -20,7 +20,7 @@ The video- screen border as been adjusted so it feels as if "you are looking thr
 A [link](https://solitudes-eucaa.c9users.io/solitudes-disco-list.pdf) is added to the complete discography of Solitudes, which will open in a new tab. 
 To update this file, an email can be send to eucaa (info@eucaa.com)
 
-Wireframes, and all used music- and video content, images and additional files can be found in the assets-folder.
+Wireframes, and all used music- and video content, images and additional files can be found in the [assets-folder](https://github.com/Eucaa/Solitudes/tree/master/assets).
 
 ## Technologies
 I thankfully made use of the following programming tools

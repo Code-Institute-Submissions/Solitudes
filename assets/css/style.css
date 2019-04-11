@@ -7,7 +7,7 @@ font-family: "Raleway", sans-serif;
 
 /*-----------------------Colors/Shanding*/
 .bg-dark {
-    background-color: #ad8b9b8c!important;
+    background-color: #ddcdd5fa!important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -178,6 +178,7 @@ hr {
 
 .audio-drop {
     margin-top: 125px;
+    margin-left: 0px;
 }
 
 .jumbotron {
@@ -246,6 +247,18 @@ hr {
 .no-pad-disco {
     padding-left: 0;
     padding-right: 0;
+}
+
+@media only screen and (max-width: 768px) { /*for getting audio into center position*/
+.justify-content-center {
+    text-align: center;
+    width: 100%;
+}
+
+.col-md-6 {
+    max-width: 100%;
+}
+
 }
 
 
