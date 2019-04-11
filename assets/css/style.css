@@ -168,6 +168,11 @@ hr {
     padding-top: 15%;
 }
 
+.logo-more {
+    width: 450px;
+    margin-top: 65px;
+}
+
 .nav-color-text {
     font-weight: 500;
 }
