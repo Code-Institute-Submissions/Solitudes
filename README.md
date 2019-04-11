@@ -22,6 +22,10 @@ To update this file, an email can be send to eucaa (info@eucaa.com)
 
 Wireframes, and all used music- and video content, images and additional files can be found in the [assets-folder](https://github.com/Eucaa/Solitudes/tree/master/assets).
 
+### User Story
+As a (first time) user and possible costumer of this website I would like to expierence what this brand can offer me. It will need to give me a welcoming feeling and provide me with some basic- and interesting information about the brand,
+and not feel aggressive or loud. It would need to make me more interested in the brand and what it can provide me, so I will share my experiences of it with others and buy their products.
+
 ## Technologies
 I thankfully made use of the following programming tools
 1. HTML5
@@ -80,9 +84,14 @@ User reactions where mostly positive and approving.
 ### Improvements:
 Over time, improvements where made in: 
 - Text structure;
-- Navbar positioning on several device sizes;
+- Navbar positioning on different device sizes;
 - Colors;
 - Social links placement.
+
+### Challenges:
+- Creating multiple layers of opacity in containers and rows;
+- Locking navbar to top on smaller devices;
+- Re-sizing, re-postioning and re-styling 95% of all available elements to fit whishes and needs.
 
 More adjustments will most likely be made in the near and further future.
 
@@ -90,6 +99,7 @@ More adjustments will most likely be made in the near and further future.
 Solitudes is hosted by using GitHub and is being deployed directly from the master branch. 
 The deployed website will be automatically updated upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must either be named "index.html"
 and includes adjustments on all other additional html- pages, when required. 
+Delopyment is being executed with the use of git bash: git status-> git add -A-> git commit -a -m "enter comments"-> git push-> ; 'enter name page creator and password'.  
 
 There's a minimum to no differences between the developped and deployed version. All requests and approved changes may only be made with apporval by creator.
 
@@ -106,5 +116,6 @@ Media shall be removed immediately if requested by original content creators.
 Baklap4, for viewing example of video and audio placement.<br/>
 Christine Urban on JSFiddle, for her section- tranparency [instructions](https://jsfiddle.net/christineurban/svgbb7u5/).<br/>
 My partner and friends, who where willing to become my test subject.<br/>
+My mentor, for helping get those last difficult bugger-bugs in order. <br/>
 My cats, who kept me warm and fluffy all the way to the end.<br/>
 Dan Gibson and Solitudes, for keeping me sane and relaxed when needed for so many years.

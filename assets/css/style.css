@@ -7,7 +7,7 @@ font-family: "Raleway", sans-serif;
 
 /*-----------------------Colors/Shanding*/
 .bg-dark {
-    background-color: #ddcdd5fa!important;
+    background-color: #d2c1cafa!important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -175,6 +175,11 @@ hr {
 
 .nav-color-text {
     font-weight: 500;
+}
+
+.navbar-padding {
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .h5, h5 {
