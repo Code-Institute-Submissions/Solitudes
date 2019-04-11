@@ -33,11 +33,16 @@ And a dash of JavaScript.
 There are many features added to this website to make it as responcive as possible, so it's also easier to access for the elderly. The main features are:
 - Removed standard border to widen the range between text areas and for better alignment.
 - Added multiple layers of tranparency for a more gentle and interactive feel.
+- A clip (gif) was added to the background of the home page screen for some extra flow.
+- All surplus white spaces have been removed.
+- Appearance of audio tags have been personally styled.
+- Appearance of burgerbar (toggle menu) have been personally styled.
 - Took out the video for better responciveness and faster page loading on devices whom are smaller that a width of 769.
 - Added collapsed navbar for iPad size to prevent it from cluttering.
 - Removed the auto-"download" option from all audio-tags to prevent illegal download and spreading.
 - Adjusted frame sizes and frame border to give it viewing box feeling.
 - A complete discography provided by visiting an external [link](https://solitudes-eucaa.c9users.io/solitudes-disco-list.pdf).
+- A link to [Amazon.com](https://www.amazon.com/s?k=Dan+Gibson%27s+Solitudes&i=music-intl-ship&ref=nb_sb_noss) was added, for user to buy Solitudes' music. 
 
 ## Features for the future
 - Updating discography list
