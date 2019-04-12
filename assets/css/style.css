@@ -136,8 +136,8 @@ hr {
 /*-----------------------Special paddings/margins/text/shading*/
 
 .cubes-box {
-  background: transparent;
-   background: url("../images/lake.gif") no-repeat center center fixed; 
+    background: transparent;
+    background: url("../images/lake.gif") no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -150,8 +150,8 @@ hr {
 }
 
 .row-opacity {
-  background-color: rgba(255, 255, 255, 0.3);
-  border-radius: 15px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 15px;
 }
 
 .fira-font {
@@ -300,7 +300,7 @@ hr {
 }
 
 .social-links li a i:hover {
-   background-color: darkgoldenrod; 
+    background-color: darkgoldenrod; 
 }
 
 #footer-details {
