@@ -107,7 +107,7 @@ There's a minimum to no differences between the developped and deployed version.
 ## Credits
 
 ### Content
-The text for section "About", "Nature" and "Discography" where sourced from the Wikipedia article "Solitudes".<br/> 
+The text for section "About", "Nature" and "Discography" where sourced from [Wikipedia](https://en.wikipedia.org/wiki/Main_Page).<br/> 
 Text- adjustments to fit to size where made by website creator.
 ### Media
 All media was used from Solitudes related websites or content. All rights reserved for publishers.<br/> 
