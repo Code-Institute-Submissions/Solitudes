@@ -20,7 +20,7 @@ The video- screen border as been adjusted so it feels as if "you are looking thr
 A [link](https://solitudes-eucaa.c9users.io/solitudes-disco-list.pdf) is added to the complete discography of Solitudes, which will open in a new tab. 
 To update this file, an email can be send to eucaa (info@eucaa.com)
 
-[Wireframes](https://github.com/Eucaa/Solitudes/tree/master/assets/wireframe), and all used music- and video content, images and additional files can be found in the [assets-folder](https://github.com/Eucaa/Solitudes/tree/master/assets).
+The original [wireframes](https://github.com/Eucaa/Solitudes/tree/master/assets/wireframe), and all used music- and video content, images and additional files can be found in the [assets-folder](https://github.com/Eucaa/Solitudes/tree/master/assets).
 
 ### User Story
 As a (first time) user and possible costumer of this website I would like to expierence what this brand can offer me. It will need to give me a welcoming feeling and provide me with some basic- and interesting information about the brand,
